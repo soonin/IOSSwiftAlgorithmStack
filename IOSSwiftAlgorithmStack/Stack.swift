@@ -8,9 +8,9 @@
 // Stack Data Structure algorithm !
 // Class    abstract data type LIFO (Last In First Out)
 // Data structure   Stack
-// Worst-case performance    О(n) comparisons, swaps
-// Best-case performance    O(1) comparisons, O(1) swaps
-// Average performance    О(1) comparisons, swaps
+// Worst-case performance    О(n)
+// Best-case performance    O(1)
+// Average performance    О(1) 
 // Worst-case space complexity
 //   where n is the size of the input array.
 //
